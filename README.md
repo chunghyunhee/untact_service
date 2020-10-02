@@ -1,4 +1,4 @@
-# DTTD ( Drive Thru for Thanks givind Day)
+# DTTD ( Drive Thru for Thanks giving Day)
 
 ## 주제
 - 언텍트 시대에 활용할 수 있는 아이디어를 여러사람과 공유할 수 있는 소프트웨어 제작
